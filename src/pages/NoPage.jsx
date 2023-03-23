@@ -1,7 +1,17 @@
 import React from "react";
 
 function NoPage() {
-  return <div>NoPage</div>;
+  return (
+    <div className="min-h-screen bg-gray-100">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="py-12">
+          <h1 className="text-3xl font-bold text-gray-900 mb-4">
+            Page not found
+          </h1>
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default NoPage;
