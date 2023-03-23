@@ -56,7 +56,7 @@ function Home() {
                   <img
                     src={product.image}
                     alt={product.title}
-                    className="h-48 w-full object-cover"
+                    className="h-48 md:h-48 w-full object-contain"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold text-gray-900">
