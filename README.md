@@ -1,9 +1,9 @@
 # Project02
 An ecommerce frontend using React.js and Tailwind CSS.<br />
 It includes three menu items such as:
-- Home page: displays a list of products.
-- About page: shows infomation about the shop.
-- Contact page: shows how to contact the shop.
+- Home: displays a list of products.
+- About: shows infomation about the shop.
+- Contact: shows how to contact the shop.
 # How to run
 There are five steps to running it as shown below:
 - Step 1: Install Node.js, if you do not have.
