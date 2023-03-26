@@ -1,6 +1,16 @@
 # Project02
-This project using React and Tailwind CSS
+An ecommerce frontend using React.js and Tailwind CSS.<br />
+It includes three menu items such as:
+- Home page: displays a list of products.
+- About page: shows infomation about the shop.
+- Contact page: shows how to contact the shop.
+# How to run
+There are five steps to running it as shown below:
+- Step 1: Install Node.js, if you do not have.
+- Step 2: Clone or download this project.
+- Step 3: Open it via CLI or VS Code.
+- Step 4: type ``npm install``.
+- Step 5: type ``npm start``.
 # Links
-Link to Tailwind CSS document [click here](https://drive.google.com/file/d/1cajXDvVjARaSz9u-LtjFvaLJgJllY9Jp/view?usp=sharing).
-
-Link to Tailwind CSS slide [click here](https://drive.google.com/file/d/11ye5iH0zleD-yiXIyrZEUNXonq4r1fHN/view?usp=sharing).
+[Documentation](https://drive.google.com/file/d/1cajXDvVjARaSz9u-LtjFvaLJgJllY9Jp/view?usp=sharing)<br />
+[Presentation slides](https://drive.google.com/file/d/1xhWTqNXK6zzPSxlWWuZ6tQlaK-9Q0V9W/view?usp=sharing)
